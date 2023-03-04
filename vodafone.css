@@ -27,3 +27,52 @@ body{
     text-decoration: none;
     color: black;
 }
+.h2{
+    height: 200px;
+    margin-top: 0;
+    position: relative;
+}
+.h2-1{
+        align-items: center;
+        margin-top: 223px;
+        margin-left: 139px;
+
+
+}
+.d1{
+    position: absolute;
+}
+
+.d1-1{
+    height: 100%;
+    width: 100%;
+}
+.d1-2{
+    left: 50%;
+    height: 100%;
+    width: 100%;
+}
+.m2{
+     height: 600px;
+    width: 609px;
+    margin-left: 24px;
+    
+}
+.l1{
+    font-size: 66px;
+}
+.p1{
+    font-size: 22px;
+}
+.button1{
+   background-color: red;
+   color: aliceblue;
+   height: 47px;
+   width: 210px;
+   font-size: 20px;
+
+}
+.botton1:hover{
+    background-color: aliceblue;
+    color: red;
+}
