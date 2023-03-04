@@ -1,0 +1,29 @@
+.h1{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 25px;
+}
+.im1{
+    height: 44px;
+    width: 82px;
+    margin-top: 8px;
+}
+.he1{
+    float: left;
+}
+body{
+    margin: 0;
+}
+.he-11{
+    border-left: 2px solid black;
+            height: 43px;
+            position:absolute;
+            left: 73.5%;
+            margin-top: 10px;
+}
+.a1{
+    text-decoration: none;
+    color: black;
+}
