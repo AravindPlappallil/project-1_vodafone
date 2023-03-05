@@ -1,8 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
-header {
-    /* position:sticky; */
-    top: 0;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Rubik+Iso&family=Tilt+Warp&display=swap');    
+
 
 #hr {
     /* position: sticky; */
@@ -16,7 +13,6 @@ header {
     align-items: center;
     font-size: 25px;
     background-color: white;
-
 
 }
 
@@ -65,7 +61,7 @@ body {
 
 .d1 {
     position: absolute;
-    
+
 }
 
 .d1-1 {
@@ -110,7 +106,7 @@ body {
 }
 
 .h3 {
-    height: 1477px;
+    height: 1600px;
     background-image: url(./images/Crossing_overlay.jpeg);
     position: relative;
     margin-top: 0;
@@ -120,6 +116,10 @@ body {
 .d2 {
     height: 700px;
     position: absolute;
+    transition: 1s ease-in-out;
+}
+.d2:hover{
+    transform: scale(1.05);
 }
 
 .l2 {
@@ -301,4 +301,216 @@ body {
     margin-right: 2px;
     font-size: 22px;
     font-family: 'Rajdhani', sans-serif;
+}
+.h4{
+    height: 350px;
+    width: auto;
+}
+.l7{
+    text-align: center;
+    font-size: 93px;
+    font-family: 'Tilt Warp', cursive;
+}
+.image{
+    height: 200px;
+    width: 1425px;
+}
+.m5{
+    width: 1425px;
+}
+.s1{
+    text-align: center;
+    color: red;
+    font-family: 'Rubik Iso', cursive;
+}
+.h5{
+    height: 150px;
+    background-color: rgb(96, 4, 4) ;
+    position: relative;
+}
+.l9{ 
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 40px;
+    text-align: center;
+    color: white;
+}
+.button1{
+    margin-top: 70px;
+    margin-left: 1210px;
+    height: 52px;
+    width: 170px;
+}
+.h6{
+    height: 500px;
+    position: relative;
+    background-color: blanchedalmond;
+    margin-top: -9px;
+
+}
+
+.heading{
+    height: 150px;
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+.l10{
+    margin-top: 10px;
+}
+.h6-1{
+    position: absolute;
+    background-color: white;
+    height: 300px;
+    width: 270px;
+    transition: 1s ease-in-out;
+}
+.h6-1:hover{
+    transform: scale(1.06);
+}
+.box-1{
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.box-2{
+    margin-top: 20px;
+    margin-left: 407px;
+
+}
+.box-3{
+    margin-top: 20px;
+    margin-left: 765px;
+
+}
+.box-4{
+    margin-top: 20px;
+    margin-left: 1113px;
+
+}
+.on{
+    font-size: 30px;
+    margin-top: 29px;
+    margin-left: 10px;
+}
+.it{
+    font-size: 24px;
+    margin-top: 29px;
+    margin-left: 10px;
+}
+.RT{
+    font-size: 24px;
+    margin-top: 29px;
+    margin-left: 10px;
+}
+.voda{
+    font-size: 24px;
+    margin-top: 29px;
+    margin-left: 10px;
+}
+.footer{
+    height: 600px;
+    background-color:  rgb(36, 36, 36);
+    justify-content: space-evenly;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    height: 70px;
+    width: 300px;
+    color: white;
+    font-size: 34px;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.foo2{
+    height: 300px;
+    justify-content: space-evenly;
+    
+}
+.fo2{
+    height: 300px;
+    width: 200px;
+    color: lightgray;
+}
+.inve{
+    margin-left: 81px;
+    text-align: center;
+}
+.or{
+    margin-top: -319px;
+    margin-left: 390px;
+    text-align: center;
+}
+.sup{
+    margin-top: -319px;
+    margin-left: 724px;
+    text-align: center;
+}
+.car{
+    margin-top: -319px;
+    margin-left: 1040px;
+    text-align: center;
+}
+.fo3{
+    height: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+    color: lightgray;
+}
+.site{
+    margin-left: 10px;
+}
+.lin1{
+    margin-top: -40px;
+    margin-left: 92px;
+}
+.terms{
+    margin-top: -36px;
+    margin-left: 103px;
+}
+.lin2{
+    margin-top: -41px;
+    margin-left: 283px;
+}
+.privacy{
+    margin-top: -36px;
+    margin-left: 300px;
+}
+.lin3{
+    margin-top: -41px;
+    margin-left: 467px;
+}
+.acce{
+    margin-top: -36px;
+    margin-left: 479px;
+}
+.lin4{
+    margin-top: -41px;
+    margin-left: 586px;
+}
+.resport{
+    margin-top: -36px;
+    margin-left: 600px;
+}
+.lin5{
+    margin-top: -41px;
+    margin-left: 792px;
+}
+.us{
+    margin-top: -36px;
+    margin-left: 806px;
+}
+.f04{
+    margin-top: -38px;
+    margin-left: 1210px;
+}
+.foo4{
+    color: lightgray;
+    font-size: 12px;
+    margin-left: 15px;
+}
+.read{
+    color: lightgray;
+    text-decoration: none;
 }
